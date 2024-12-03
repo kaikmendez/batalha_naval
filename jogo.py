@@ -1,4 +1,4 @@
-import ramdom as rm
+import random as rm
 
 def criar_tabuleiro():
     return [
